@@ -34,25 +34,25 @@ struct User: Codable, Identifiable {
         "This is sentance for about me dummy, This is sentance for about me dummy longer"
     }
     
-    var basics:[UserInterst]{
-       [
-        UserInterst(iconName: "ruler", emoji: nil, text: "\(height ?? 0)"),
-        UserInterst(iconName: "graduationcap", emoji: nil, text: "\(education)"),
-        UserInterst(iconName: "wineglass", emoji: nil, text: "Socially"),
-        UserInterst(iconName: "moon.stars.fill", emoji: nil, text: "Virgo")
-       ]
-    }
-    
-    var interests:[UserInterst]{
-       [
-        UserInterst(iconName: nil, emoji: "👟", text: "Running"),
-        UserInterst(iconName: nil, emoji: "🏋️‍♂️", text: "Gym"),
-        UserInterst(iconName: nil, emoji: "🎧", text: "Music"),
-        UserInterst(iconName: nil, emoji: "🥘", text: "Cooking")
-
-       ]
-    }
-    
+//    var basics:[UserInterst]{
+//       [
+//        UserInterst(iconName: "ruler", emoji: nil, text: "\(height ?? 0)"),
+//        UserInterst(iconName: "graduationcap", emoji: nil, text: "\(education)"),
+//        UserInterst(iconName: "wineglass", emoji: nil, text: "Socially"),
+//        UserInterst(iconName: "moon.stars.fill", emoji: nil, text: "Virgo")
+//       ]
+//    }
+//    
+//    var interests:[UserInterst]{
+//       [
+//        UserInterst(iconName: nil, emoji: "👟", text: "Running"),
+//        UserInterst(iconName: nil, emoji: "🏋️‍♂️", text: "Gym"),
+//        UserInterst(iconName: nil, emoji: "🎧", text: "Music"),
+//        UserInterst(iconName: nil, emoji: "🥘", text: "Cooking")
+//
+//       ]
+//    }
+//    
     var images:[String]{
         [
             "https://picsum.photos/400/600",

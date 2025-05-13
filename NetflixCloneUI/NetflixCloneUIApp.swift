@@ -6,12 +6,16 @@
 //
 
 import SwiftUI
+import SwiftfulRouting
 
 @main
 struct NetflixCloneUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RouterView { _ in
+                ContentView()
+            }
+
         }
     }
 }

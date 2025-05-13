@@ -21,7 +21,8 @@ struct NetflixHeroCell: View {
     
     var body: some View {
         ZStack(alignment: .bottom) {
-           
+            Color.netflixBlack.opacity(0.75).ignoresSafeArea()
+
             ImageLoaderView(urlString: imageName)
                
             VStack(spacing: 16) {

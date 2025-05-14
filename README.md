@@ -11,10 +11,10 @@ A beautifully crafted **Netflix UI Clone** built using **SwiftUI**, designed as 
 
 ---
 
-## 📸 Demo
+## 📸 ScreenShots
 
-![Netflix UI Clone Demo](https://github.com/your-username/netflix-swiftui-clone/blob/main/Assets/demo.gif)
-
+- [![Simulator-Screenshot-i-Phone-16-2025-05-14-at-20-20-49.png](https://i.postimg.cc/qM2qTPJB/Simulator-Screenshot-i-Phone-16-2025-05-14-at-20-20-49.png)](https://postimg.cc/w7Tg5bRn)
+- [![Simulator-Screenshot-i-Phone-16-2025-05-14-at-20-22-10.png](https://i.postimg.cc/TwWGcbh2/Simulator-Screenshot-i-Phone-16-2025-05-14-at-20-22-10.png)](https://postimg.cc/Fdm2r7jw)
 ---
 
 ## 🧱 Features
